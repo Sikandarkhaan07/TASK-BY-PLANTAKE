@@ -1,0 +1,22 @@
+com.example.mediaplayer.app-jetified-media2-session-1.2.0-0 C:\Users\Sikandar Khan\.gradle\caches\transforms-3\19d49e872babaf917028cabab37d3733\transformed\jetified-media2-session-1.2.0\res
+com.example.mediaplayer.app-jetified-media2-common-1.2.0-1 C:\Users\Sikandar Khan\.gradle\caches\transforms-3\1eb387e186f49ce8b494aa1a7ef6123a\transformed\jetified-media2-common-1.2.0\res
+com.example.mediaplayer.app-jetified-window-1.0.0-beta04-2 C:\Users\Sikandar Khan\.gradle\caches\transforms-3\67b47dd1a189871242b5e8cc91c42d4f\transformed\jetified-window-1.0.0-beta04\res
+com.example.mediaplayer.app-media-1.6.0-3 C:\Users\Sikandar Khan\.gradle\caches\transforms-3\8d5c7ee693a40e8f24b57bbfbf14056b\transformed\media-1.6.0\res
+com.example.mediaplayer.app-core-1.7.0-4 C:\Users\Sikandar Khan\.gradle\caches\transforms-3\bde9ac5e8d2b9c869ff7f009ec9e5b99\transformed\core-1.7.0\res
+com.example.mediaplayer.app-jetified-annotation-experimental-1.1.0-5 C:\Users\Sikandar Khan\.gradle\caches\transforms-3\d2ea28d507c37ea7fa21ec0c953edea2\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.mediaplayer.app-jetified-exoplayer-core-2.18.1-6 C:\Users\Sikandar Khan\.gradle\caches\transforms-3\d381488f75ea140252fc66bab569746d\transformed\jetified-exoplayer-core-2.18.1\res
+com.example.mediaplayer.app-lifecycle-runtime-2.3.1-7 C:\Users\Sikandar Khan\.gradle\caches\transforms-3\e70385df321e6f67fb703ca2b120697f\transformed\lifecycle-runtime-2.3.1\res
+com.example.mediaplayer.app-jetified-window-java-1.0.0-beta04-8 C:\Users\Sikandar Khan\.gradle\caches\transforms-3\efdffa7cc491d6137867c9d02f9658d9\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.mediaplayer.app-debug-9 D:\Flutter\learningflutter\mediaplayer\android\app\src\debug\res
+com.example.mediaplayer.app-main-10 D:\Flutter\learningflutter\mediaplayer\android\app\src\main\res
+com.example.mediaplayer.app-pngs-11 D:\Flutter\learningflutter\mediaplayer\build\app\generated\res\pngs\debug
+com.example.mediaplayer.app-resValues-12 D:\Flutter\learningflutter\mediaplayer\build\app\generated\res\resValues\debug
+com.example.mediaplayer.app-rs-13 D:\Flutter\learningflutter\mediaplayer\build\app\generated\res\rs\debug
+com.example.mediaplayer.app-mergeDebugResources-14 D:\Flutter\learningflutter\mediaplayer\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.mediaplayer.app-mergeDebugResources-15 D:\Flutter\learningflutter\mediaplayer\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.mediaplayer.app-merged_res-16 D:\Flutter\learningflutter\mediaplayer\build\app\intermediates\merged_res\debug
+com.example.mediaplayer.app-packaged_res-17 D:\Flutter\learningflutter\mediaplayer\build\audio_service\intermediates\packaged_res\debug
+com.example.mediaplayer.app-packaged_res-18 D:\Flutter\learningflutter\mediaplayer\build\audio_session\intermediates\packaged_res\debug
+com.example.mediaplayer.app-packaged_res-19 D:\Flutter\learningflutter\mediaplayer\build\just_audio\intermediates\packaged_res\debug
+com.example.mediaplayer.app-packaged_res-20 D:\Flutter\learningflutter\mediaplayer\build\path_provider_android\intermediates\packaged_res\debug
+com.example.mediaplayer.app-packaged_res-21 D:\Flutter\learningflutter\mediaplayer\build\sqflite\intermediates\packaged_res\debug

@@ -1,0 +1,200 @@
+-- Merging decision tree log ---
+application
+INJECTED from D:\Flutter\learningflutter\mediaplayer\android\app\src\main\AndroidManifest.xml:5:4-51:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\67b47dd1a189871242b5e8cc91c42d4f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\67b47dd1a189871242b5e8cc91c42d4f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.7.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\bde9ac5e8d2b9c869ff7f009ec9e5b99\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\bde9ac5e8d2b9c869ff7f009ec9e5b99\transformed\core-1.7.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\6926924ffd342e7fc68069a3bc19db51\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\6926924ffd342e7fc68069a3bc19db51\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\bde9ac5e8d2b9c869ff7f009ec9e5b99\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from D:\Flutter\learningflutter\mediaplayer\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from D:\Flutter\learningflutter\mediaplayer\android\app\src\main\AndroidManifest.xml:1:1-52:12
+INJECTED from D:\Flutter\learningflutter\mediaplayer\android\app\src\main\AndroidManifest.xml:1:1-52:12
+INJECTED from D:\Flutter\learningflutter\mediaplayer\android\app\src\main\AndroidManifest.xml:1:1-52:12
+INJECTED from D:\Flutter\learningflutter\mediaplayer\android\app\src\main\AndroidManifest.xml:1:1-52:12
+MERGED from D:\Flutter\learningflutter\mediaplayer\android\app\src\main\AndroidManifest.xml:1:1-52:12
+MERGED from [:just_audio] D:\Flutter\learningflutter\mediaplayer\build\just_audio\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:audio_service] D:\Flutter\learningflutter\mediaplayer\build\audio_service\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:sqflite] D:\Flutter\learningflutter\mediaplayer\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:path_provider_android] D:\Flutter\learningflutter\mediaplayer\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:audio_session] D:\Flutter\learningflutter\mediaplayer\build\audio_session\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\efdffa7cc491d6137867c9d02f9658d9\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\67b47dd1a189871242b5e8cc91c42d4f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\fbbf4c25f8d126fc371403aa385cc466\transformed\jetified-exoplayer-dash-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\9afd272b2c82917c474cdd7c336e9336\transformed\jetified-exoplayer-hls-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\5a2ab89e60aea85e093eec90ee50d0a3\transformed\jetified-exoplayer-smoothstreaming-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\d381488f75ea140252fc66bab569746d\transformed\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.media2:media2-session:1.2.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\19d49e872babaf917028cabab37d3733\transformed\jetified-media2-session-1.2.0\AndroidManifest.xml:17:1-36:12
+MERGED from [androidx.media2:media2-common:1.2.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\1eb387e186f49ce8b494aa1a7ef6123a\transformed\jetified-media2-common-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.6.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\8d5c7ee693a40e8f24b57bbfbf14056b\transformed\media-1.6.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\00f11ad7aff65942963c6df7ede4598b\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\2afa157f69f9dca4bc61ae783932a286\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\a11d16ffc74cecc90ea6b8e8509d1e5d\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\434669e0565f0c66e66d0a7c4442857b\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\871650886c118b292e1cc31dab58ab25\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\30add47c23ab86ab5e8a100ce2db0fa1\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\bde9ac5e8d2b9c869ff7f009ec9e5b99\transformed\core-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\3e4d57e9cd77429570ee4027fa0d51ec\transformed\jetified-exoplayer-datasource-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\f712109ec7e3ccb0e2852c8470f2ee40\transformed\jetified-exoplayer-extractor-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\299f3f8ca263e5fe2a228658227cbaa4\transformed\jetified-exoplayer-decoder-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\7138348cb6bce1d66e0cbd5e2703817d\transformed\jetified-exoplayer-database-2.18.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\8288c24e49d16703e2fdbe89d8552dfc\transformed\jetified-exoplayer-common-2.18.1\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\6926924ffd342e7fc68069a3bc19db51\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\e70385df321e6f67fb703ca2b120697f\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\3d8f8dbb899793fbbce3f50a7777bef5\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\b10e4f90648f224d25ca857daf885620\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\39e6f5bbc6b2ce25f863f54dcfc56e09\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\ea1833f9a8adf064ac9351959d77d80c\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\3b38bcdec30187810e892133a05e6ac8\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\d2ea28d507c37ea7fa21ec0c953edea2\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\Flutter\learningflutter\mediaplayer\android\app\src\debug\AndroidManifest.xml:1:1-8:12
+INJECTED from D:\Flutter\learningflutter\mediaplayer\android\app\src\debug\AndroidManifest.xml:1:1-8:12
+INJECTED from D:\Flutter\learningflutter\mediaplayer\android\app\src\debug\AndroidManifest.xml:1:1-8:12
+	package
+		ADDED from D:\Flutter\learningflutter\mediaplayer\android\app\src\main\AndroidManifest.xml:2:5-38
+		INJECTED from D:\Flutter\learningflutter\mediaplayer\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Flutter\learningflutter\mediaplayer\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Flutter\learningflutter\mediaplayer\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Flutter\learningflutter\mediaplayer\android\app\src\main\AndroidManifest.xml:1:1-52:12
+		INJECTED from D:\Flutter\learningflutter\mediaplayer\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Flutter\learningflutter\mediaplayer\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Flutter\learningflutter\mediaplayer\android\app\src\main\AndroidManifest.xml:1:1-52:12
+		INJECTED from D:\Flutter\learningflutter\mediaplayer\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Flutter\learningflutter\mediaplayer\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Flutter\learningflutter\mediaplayer\android\app\src\main\AndroidManifest.xml:3:5-67
+	android:name
+		ADDED from D:\Flutter\learningflutter\mediaplayer\android\app\src\main\AndroidManifest.xml:3:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from D:\Flutter\learningflutter\mediaplayer\android\app\src\main\AndroidManifest.xml:4:5-76
+	android:name
+		ADDED from D:\Flutter\learningflutter\mediaplayer\android\app\src\main\AndroidManifest.xml:4:22-74
+uses-sdk
+INJECTED from D:\Flutter\learningflutter\mediaplayer\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Flutter\learningflutter\mediaplayer\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Flutter\learningflutter\mediaplayer\android\app\src\main\AndroidManifest.xml
+MERGED from [:just_audio] D:\Flutter\learningflutter\mediaplayer\build\just_audio\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:just_audio] D:\Flutter\learningflutter\mediaplayer\build\just_audio\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:audio_service] D:\Flutter\learningflutter\mediaplayer\build\audio_service\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:audio_service] D:\Flutter\learningflutter\mediaplayer\build\audio_service\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:sqflite] D:\Flutter\learningflutter\mediaplayer\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:sqflite] D:\Flutter\learningflutter\mediaplayer\build\sqflite\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] D:\Flutter\learningflutter\mediaplayer\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] D:\Flutter\learningflutter\mediaplayer\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:audio_session] D:\Flutter\learningflutter\mediaplayer\build\audio_session\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:audio_session] D:\Flutter\learningflutter\mediaplayer\build\audio_session\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\efdffa7cc491d6137867c9d02f9658d9\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\efdffa7cc491d6137867c9d02f9658d9\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\67b47dd1a189871242b5e8cc91c42d4f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\67b47dd1a189871242b5e8cc91c42d4f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\fbbf4c25f8d126fc371403aa385cc466\transformed\jetified-exoplayer-dash-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\fbbf4c25f8d126fc371403aa385cc466\transformed\jetified-exoplayer-dash-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\9afd272b2c82917c474cdd7c336e9336\transformed\jetified-exoplayer-hls-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\9afd272b2c82917c474cdd7c336e9336\transformed\jetified-exoplayer-hls-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\5a2ab89e60aea85e093eec90ee50d0a3\transformed\jetified-exoplayer-smoothstreaming-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\5a2ab89e60aea85e093eec90ee50d0a3\transformed\jetified-exoplayer-smoothstreaming-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\d381488f75ea140252fc66bab569746d\transformed\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\d381488f75ea140252fc66bab569746d\transformed\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-session:1.2.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\19d49e872babaf917028cabab37d3733\transformed\jetified-media2-session-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-session:1.2.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\19d49e872babaf917028cabab37d3733\transformed\jetified-media2-session-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-common:1.2.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\1eb387e186f49ce8b494aa1a7ef6123a\transformed\jetified-media2-common-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media2:media2-common:1.2.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\1eb387e186f49ce8b494aa1a7ef6123a\transformed\jetified-media2-common-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.6.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\8d5c7ee693a40e8f24b57bbfbf14056b\transformed\media-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.6.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\8d5c7ee693a40e8f24b57bbfbf14056b\transformed\media-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\00f11ad7aff65942963c6df7ede4598b\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\00f11ad7aff65942963c6df7ede4598b\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\2afa157f69f9dca4bc61ae783932a286\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\2afa157f69f9dca4bc61ae783932a286\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\a11d16ffc74cecc90ea6b8e8509d1e5d\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\a11d16ffc74cecc90ea6b8e8509d1e5d\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\434669e0565f0c66e66d0a7c4442857b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\434669e0565f0c66e66d0a7c4442857b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\871650886c118b292e1cc31dab58ab25\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\871650886c118b292e1cc31dab58ab25\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\30add47c23ab86ab5e8a100ce2db0fa1\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\30add47c23ab86ab5e8a100ce2db0fa1\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\bde9ac5e8d2b9c869ff7f009ec9e5b99\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\bde9ac5e8d2b9c869ff7f009ec9e5b99\transformed\core-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\3e4d57e9cd77429570ee4027fa0d51ec\transformed\jetified-exoplayer-datasource-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\3e4d57e9cd77429570ee4027fa0d51ec\transformed\jetified-exoplayer-datasource-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\f712109ec7e3ccb0e2852c8470f2ee40\transformed\jetified-exoplayer-extractor-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\f712109ec7e3ccb0e2852c8470f2ee40\transformed\jetified-exoplayer-extractor-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\299f3f8ca263e5fe2a228658227cbaa4\transformed\jetified-exoplayer-decoder-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\299f3f8ca263e5fe2a228658227cbaa4\transformed\jetified-exoplayer-decoder-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\7138348cb6bce1d66e0cbd5e2703817d\transformed\jetified-exoplayer-database-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\7138348cb6bce1d66e0cbd5e2703817d\transformed\jetified-exoplayer-database-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\8288c24e49d16703e2fdbe89d8552dfc\transformed\jetified-exoplayer-common-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\8288c24e49d16703e2fdbe89d8552dfc\transformed\jetified-exoplayer-common-2.18.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\6926924ffd342e7fc68069a3bc19db51\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\6926924ffd342e7fc68069a3bc19db51\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\e70385df321e6f67fb703ca2b120697f\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\e70385df321e6f67fb703ca2b120697f\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\3d8f8dbb899793fbbce3f50a7777bef5\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\3d8f8dbb899793fbbce3f50a7777bef5\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\b10e4f90648f224d25ca857daf885620\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\b10e4f90648f224d25ca857daf885620\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\39e6f5bbc6b2ce25f863f54dcfc56e09\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\39e6f5bbc6b2ce25f863f54dcfc56e09\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\ea1833f9a8adf064ac9351959d77d80c\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\ea1833f9a8adf064ac9351959d77d80c\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\3b38bcdec30187810e892133a05e6ac8\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\3b38bcdec30187810e892133a05e6ac8\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\d2ea28d507c37ea7fa21ec0c953edea2\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\d2ea28d507c37ea7fa21ec0c953edea2\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Flutter\learningflutter\mediaplayer\android\app\src\debug\AndroidManifest.xml
+INJECTED from D:\Flutter\learningflutter\mediaplayer\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Flutter\learningflutter\mediaplayer\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Flutter\learningflutter\mediaplayer\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Flutter\learningflutter\mediaplayer\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Flutter\learningflutter\mediaplayer\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from D:\Flutter\learningflutter\mediaplayer\android\app\src\debug\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from D:\Flutter\learningflutter\mediaplayer\android\app\src\debug\AndroidManifest.xml:7:22-64
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\67b47dd1a189871242b5e8cc91c42d4f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\67b47dd1a189871242b5e8cc91c42d4f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\67b47dd1a189871242b5e8cc91c42d4f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\67b47dd1a189871242b5e8cc91c42d4f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\67b47dd1a189871242b5e8cc91c42d4f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\67b47dd1a189871242b5e8cc91c42d4f\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\d381488f75ea140252fc66bab569746d\transformed\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\8288c24e49d16703e2fdbe89d8552dfc\transformed\jetified-exoplayer-common-2.18.1\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\8288c24e49d16703e2fdbe89d8552dfc\transformed\jetified-exoplayer-common-2.18.1\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.exoplayer:exoplayer-core:2.18.1] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\d381488f75ea140252fc66bab569746d\transformed\jetified-exoplayer-core-2.18.1\AndroidManifest.xml:24:22-76
+queries
+ADDED from [androidx.media2:media2-session:1.2.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\19d49e872babaf917028cabab37d3733\transformed\jetified-media2-session-1.2.0\AndroidManifest.xml:24:5-34:15
+intent#action:name:android.media.browse.MediaBrowserService
+ADDED from [androidx.media2:media2-session:1.2.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\19d49e872babaf917028cabab37d3733\transformed\jetified-media2-session-1.2.0\AndroidManifest.xml:25:9-27:18
+action#android.media.browse.MediaBrowserService
+ADDED from [androidx.media2:media2-session:1.2.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\19d49e872babaf917028cabab37d3733\transformed\jetified-media2-session-1.2.0\AndroidManifest.xml:26:13-79
+	android:name
+		ADDED from [androidx.media2:media2-session:1.2.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\19d49e872babaf917028cabab37d3733\transformed\jetified-media2-session-1.2.0\AndroidManifest.xml:26:21-76
+intent#action:name:androidx.media2.session.MediaSessionService
+ADDED from [androidx.media2:media2-session:1.2.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\19d49e872babaf917028cabab37d3733\transformed\jetified-media2-session-1.2.0\AndroidManifest.xml:28:9-30:18
+action#androidx.media2.session.MediaSessionService
+ADDED from [androidx.media2:media2-session:1.2.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\19d49e872babaf917028cabab37d3733\transformed\jetified-media2-session-1.2.0\AndroidManifest.xml:29:13-82
+	android:name
+		ADDED from [androidx.media2:media2-session:1.2.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\19d49e872babaf917028cabab37d3733\transformed\jetified-media2-session-1.2.0\AndroidManifest.xml:29:21-79
+intent#action:name:androidx.media2.session.MediaLibraryService
+ADDED from [androidx.media2:media2-session:1.2.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\19d49e872babaf917028cabab37d3733\transformed\jetified-media2-session-1.2.0\AndroidManifest.xml:31:9-33:18
+action#androidx.media2.session.MediaLibraryService
+ADDED from [androidx.media2:media2-session:1.2.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\19d49e872babaf917028cabab37d3733\transformed\jetified-media2-session-1.2.0\AndroidManifest.xml:32:13-82
+	android:name
+		ADDED from [androidx.media2:media2-session:1.2.0] C:\Users\Sikandar Khan\.gradle\caches\transforms-3\19d49e872babaf917028cabab37d3733\transformed\jetified-media2-session-1.2.0\AndroidManifest.xml:32:21-79

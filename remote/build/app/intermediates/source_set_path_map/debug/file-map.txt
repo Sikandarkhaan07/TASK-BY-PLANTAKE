@@ -1,0 +1,18 @@
+com.example.remote.app-jetified-firebase-common-20.3.2-0 C:\Users\Sikandar Khan\.gradle\caches\transforms-3\04b547829ea8be47123d7af25e7a0ede\transformed\jetified-firebase-common-20.3.2\res
+com.example.remote.app-core-1.6.0-1 C:\Users\Sikandar Khan\.gradle\caches\transforms-3\10b6ee4f341d3e1a7609570555ec8ff7\transformed\core-1.6.0\res
+com.example.remote.app-jetified-play-services-basement-18.1.0-2 C:\Users\Sikandar Khan\.gradle\caches\transforms-3\13b9f66163067db8d2111111b1be5e4d\transformed\jetified-play-services-basement-18.1.0\res
+com.example.remote.app-jetified-window-java-1.0.0-beta04-3 C:\Users\Sikandar Khan\.gradle\caches\transforms-3\45e1e62e2819d0429c84f7e075a78984\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.remote.app-jetified-window-1.0.0-beta04-4 C:\Users\Sikandar Khan\.gradle\caches\transforms-3\902b77eed67506b6455ef64536e89923\transformed\jetified-window-1.0.0-beta04\res
+com.example.remote.app-jetified-annotation-experimental-1.1.0-5 C:\Users\Sikandar Khan\.gradle\caches\transforms-3\cd70a70f09f5de87949da0410b118f22\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.remote.app-debug-6 D:\Flutter\learningflutter\remote\android\app\src\debug\res
+com.example.remote.app-main-7 D:\Flutter\learningflutter\remote\android\app\src\main\res
+com.example.remote.app-google-services-8 D:\Flutter\learningflutter\remote\build\app\generated\res\google-services\debug
+com.example.remote.app-pngs-9 D:\Flutter\learningflutter\remote\build\app\generated\res\pngs\debug
+com.example.remote.app-resValues-10 D:\Flutter\learningflutter\remote\build\app\generated\res\resValues\debug
+com.example.remote.app-rs-11 D:\Flutter\learningflutter\remote\build\app\generated\res\rs\debug
+com.example.remote.app-mergeDebugResources-12 D:\Flutter\learningflutter\remote\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.remote.app-mergeDebugResources-13 D:\Flutter\learningflutter\remote\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.remote.app-merged_res-14 D:\Flutter\learningflutter\remote\build\app\intermediates\merged_res\debug
+com.example.remote.app-packaged_res-15 D:\Flutter\learningflutter\remote\build\firebase_analytics\intermediates\packaged_res\debug
+com.example.remote.app-packaged_res-16 D:\Flutter\learningflutter\remote\build\firebase_core\intermediates\packaged_res\debug
+com.example.remote.app-packaged_res-17 D:\Flutter\learningflutter\remote\build\firebase_remote_config\intermediates\packaged_res\debug

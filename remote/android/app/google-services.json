@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "144513329510",
+    "project_id": "plantake-682f4",
+    "storage_bucket": "plantake-682f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144513329510:android:45738f80b1a380578600a7",
+        "android_client_info": {
+          "package_name": "com.example.plantake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144513329510-nei8t6l3h0t25ndvr5qdtb9cfeeq1791.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.plantake",
+            "certificate_hash": "50bba27952fd94b03a0cebe93fa28d3de6c7556e"
+          }
+        },
+        {
+          "client_id": "144513329510-e9a5p61kachjb2fg2ifrrcbi1vdja4d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ImKKvpc5PibLxhxgjXwvQnFhQEJxue0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144513329510-ckpbs79kf4lujr7dlm1pk2esft6pts3k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "144513329510-mlg6ff1huas8tt43vgbnjqhcjofeime2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.plantakeTask1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144513329510:android:0ac147d01fc502b68600a7",
+        "android_client_info": {
+          "package_name": "com.example.plantake_task1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144513329510-e9a5p61kachjb2fg2ifrrcbi1vdja4d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ImKKvpc5PibLxhxgjXwvQnFhQEJxue0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144513329510-ckpbs79kf4lujr7dlm1pk2esft6pts3k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "144513329510-mlg6ff1huas8tt43vgbnjqhcjofeime2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.plantakeTask1"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144513329510:android:e17b91fde56570738600a7",
+        "android_client_info": {
+          "package_name": "com.example.remote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144513329510-e9a5p61kachjb2fg2ifrrcbi1vdja4d3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0ImKKvpc5PibLxhxgjXwvQnFhQEJxue0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144513329510-ckpbs79kf4lujr7dlm1pk2esft6pts3k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "144513329510-mlg6ff1huas8tt43vgbnjqhcjofeime2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.plantakeTask1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

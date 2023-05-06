@@ -1,0 +1,22 @@
+com.example.plantake.app-jetified-play-services-auth-20.4.1-0 C:\Users\Sikandar Khan\.gradle\caches\transforms-3\0a69509e14b1762aa0ca84cfaa4f2229\transformed\jetified-play-services-auth-20.4.1\res
+com.example.plantake.app-jetified-play-services-basement-18.1.0-1 C:\Users\Sikandar Khan\.gradle\caches\transforms-3\4d506aaf6af5fccdcc7baaf62093d409\transformed\jetified-play-services-basement-18.1.0\res
+com.example.plantake.app-jetified-play-services-base-18.0.1-2 C:\Users\Sikandar Khan\.gradle\caches\transforms-3\5c0f0e58a277dc80434cbcfde4964fbe\transformed\jetified-play-services-base-18.0.1\res
+com.example.plantake.app-jetified-annotation-experimental-1.1.0-3 C:\Users\Sikandar Khan\.gradle\caches\transforms-3\5e43fcbee61cfeb14ed695818e341ba0\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.plantake.app-jetified-firebase-common-20.3.1-4 C:\Users\Sikandar Khan\.gradle\caches\transforms-3\9649a74e1d057b4dd777670308cd59ec\transformed\jetified-firebase-common-20.3.1\res
+com.example.plantake.app-browser-1.4.0-5 C:\Users\Sikandar Khan\.gradle\caches\transforms-3\cf6fda5416a597e5c3417811bfca3e5e\transformed\browser-1.4.0\res
+com.example.plantake.app-core-1.6.0-6 C:\Users\Sikandar Khan\.gradle\caches\transforms-3\d8d5b4cee1dfa7d23cbf29ea39d93b75\transformed\core-1.6.0\res
+com.example.plantake.app-jetified-window-java-1.0.0-beta04-7 C:\Users\Sikandar Khan\.gradle\caches\transforms-3\dbd0aa590cd4cf508dc18e55efefb9c0\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.plantake.app-jetified-window-1.0.0-beta04-8 C:\Users\Sikandar Khan\.gradle\caches\transforms-3\dd3e0407a375447f481a6a1fab4a3651\transformed\jetified-window-1.0.0-beta04\res
+com.example.plantake.app-debug-9 D:\Flutter\learningflutter\plantake\android\app\src\debug\res
+com.example.plantake.app-main-10 D:\Flutter\learningflutter\plantake\android\app\src\main\res
+com.example.plantake.app-google-services-11 D:\Flutter\learningflutter\plantake\build\app\generated\res\google-services\debug
+com.example.plantake.app-pngs-12 D:\Flutter\learningflutter\plantake\build\app\generated\res\pngs\debug
+com.example.plantake.app-resValues-13 D:\Flutter\learningflutter\plantake\build\app\generated\res\resValues\debug
+com.example.plantake.app-rs-14 D:\Flutter\learningflutter\plantake\build\app\generated\res\rs\debug
+com.example.plantake.app-mergeDebugResources-15 D:\Flutter\learningflutter\plantake\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.plantake.app-mergeDebugResources-16 D:\Flutter\learningflutter\plantake\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.plantake.app-merged_res-17 D:\Flutter\learningflutter\plantake\build\app\intermediates\merged_res\debug
+com.example.plantake.app-packaged_res-18 D:\Flutter\learningflutter\plantake\build\firebase_analytics\intermediates\packaged_res\debug
+com.example.plantake.app-packaged_res-19 D:\Flutter\learningflutter\plantake\build\firebase_auth\intermediates\packaged_res\debug
+com.example.plantake.app-packaged_res-20 D:\Flutter\learningflutter\plantake\build\firebase_core\intermediates\packaged_res\debug
+com.example.plantake.app-packaged_res-21 D:\Flutter\learningflutter\plantake\build\google_sign_in_android\intermediates\packaged_res\debug

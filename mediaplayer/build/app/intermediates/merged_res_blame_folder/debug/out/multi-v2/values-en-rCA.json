@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.mediaplayer.app-mergeDebugResources-14:/values-en-rCA/values-en-rCA.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Sikandar Khan\\.gradle\\caches\\transforms-3\\bde9ac5e8d2b9c869ff7f009ec9e5b99\\transformed\\core-1.7.0\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "600",
+                        "endColumns": "100",
+                        "endOffsets": "696"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Sikandar Khan\\.gradle\\caches\\transforms-3\\19d49e872babaf917028cabab37d3733\\transformed\\jetified-media2-session-1.2.0\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,159,256,350,471",
+                        "endColumns": "103,96,93,120,128",
+                        "endOffsets": "154,251,345,466,595"
+                    }
+                }
+            ]
+        }
+    ]
+}
