@@ -91,10 +91,17 @@ class _Task3State extends State<Task3> {
               }
               if (onDateSelected.isCurrentDate) {}
               //data storing using HIVE
-              if (i == 0) {
-                i = 1;
-                await Hive.box(boxName).put(
-                    onDateSelected.selectedDate.toString().substring(0, 10), i);
+              if (!onDateSelected.isDisabled) {
+                db.log("Clicked...  ${onDateSelected.isDisabled}");
+                if (i == 0) {
+                  i = 1;
+                  await Hive.box(boxName).put(
+                      onDateSelected.selectedDate.toString().substring(0, 10),
+                      i);
+
+                  getDataByHIVE();
+                  setState(() {});
+                }
               }
             },
             cbConfig: CbConfig(
