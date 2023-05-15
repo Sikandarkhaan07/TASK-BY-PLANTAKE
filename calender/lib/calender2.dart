@@ -141,8 +141,6 @@ class _TableComplexExampleState extends State<TableComplexExample> {
             TableCalendar<Event>(
               calendarStyle: CalendarStyle(
                 selectedDecoration: BoxDecoration(
-                  // color: Colors.black,
-
                   borderRadius: BorderRadius.circular(20),
                   border: const Border(
                     top: BorderSide(
@@ -162,7 +160,6 @@ class _TableComplexExampleState extends State<TableComplexExample> {
                       width: 2,
                     ),
                   ),
-                  shape: BoxShape.circle,
                 ),
               ),
               firstDay: kFirstDay,
