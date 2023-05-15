@@ -97,61 +97,94 @@ class _TableComplexExampleState extends State<TableComplexExample> {
       appBar: AppBar(
         title: const Text('TableCalendar - Complex'),
       ),
-      body: Column(
-        children: [
-          ValueListenableBuilder<DateTime>(
-            valueListenable: _focusedDay,
-            builder: (context, value, _) {
-              return CalendarHeader(
-                focusedDay: value,
-                clearButtonVisible: false,
-                onTodayButtonTap: () {
-                  setState(() => _focusedDay.value = DateTime.now());
-                },
-                onClearButtonTap: () {
-                  setState(() {
-                    _rangeStart = null;
-                    _rangeEnd = null;
-                    _selectedDays.clear();
-                  });
-                },
-                onLeftArrowTap: () {
-                  dp.log("Left....");
-                  _pageController.previousPage(
-                    duration: const Duration(milliseconds: 300),
-                    curve: Curves.easeOut,
-                  );
-                },
-                onRightArrowTap: () {
-                  dp.log("Right....");
-                  _pageController.nextPage(
-                    duration: const Duration(milliseconds: 300),
-                    curve: Curves.easeOut,
-                  );
-                },
-              );
-            },
-          ),
-          TableCalendar<Event>(
-            firstDay: kFirstDay,
-            lastDay: kLastDay,
-            focusedDay: _focusedDay.value,
-            headerVisible: false,
-            selectedDayPredicate: (day) => _selectedDays.contains(day),
-            rangeStartDay: _rangeStart,
-            rangeEndDay: _rangeEnd,
-            calendarFormat: _calendarFormat,
-            rangeSelectionMode: _rangeSelectionMode,
-            onDaySelected: _onDaySelected,
-            onCalendarCreated: (controller) => _pageController = controller,
-            onPageChanged: (focusedDay) => _focusedDay.value = focusedDay,
-            onFormatChanged: (format) {
-              if (_calendarFormat != format) {
-                setState(() => _calendarFormat = format);
-              }
-            },
-          ),
-        ],
+      body: Container(
+        height: 400,
+        padding: const EdgeInsets.all(10),
+        margin: const EdgeInsets.all(10),
+        decoration: BoxDecoration(
+            color: Colors.amber, borderRadius: BorderRadius.circular(10)),
+        child: Column(
+          children: [
+            ValueListenableBuilder<DateTime>(
+              valueListenable: _focusedDay,
+              builder: (context, value, _) {
+                return CalendarHeader(
+                  focusedDay: value,
+                  clearButtonVisible: false,
+                  onTodayButtonTap: () {
+                    setState(() => _focusedDay.value = DateTime.now());
+                  },
+                  onClearButtonTap: () {
+                    setState(() {
+                      _rangeStart = null;
+                      _rangeEnd = null;
+                      _selectedDays.clear();
+                    });
+                  },
+                  onLeftArrowTap: () {
+                    dp.log("Left....");
+                    _pageController.previousPage(
+                      duration: const Duration(milliseconds: 300),
+                      curve: Curves.easeOut,
+                    );
+                  },
+                  onRightArrowTap: () {
+                    dp.log("Right....");
+                    _pageController.nextPage(
+                      duration: const Duration(milliseconds: 300),
+                      curve: Curves.easeOut,
+                    );
+                  },
+                );
+              },
+            ),
+            TableCalendar<Event>(
+              calendarStyle: CalendarStyle(
+                selectedDecoration: BoxDecoration(
+                  // color: Colors.black,
+
+                  borderRadius: BorderRadius.circular(20),
+                  border: const Border(
+                    top: BorderSide(
+                      color: Colors.red,
+                      width: 2,
+                    ),
+                    bottom: BorderSide(
+                      color: Colors.red,
+                      width: 2,
+                    ),
+                    left: BorderSide(
+                      color: Colors.red,
+                      width: 2,
+                    ),
+                    right: BorderSide(
+                      color: Colors.red,
+                      width: 2,
+                    ),
+                  ),
+                  shape: BoxShape.circle,
+                ),
+              ),
+              firstDay: kFirstDay,
+              lastDay: kLastDay,
+              focusedDay: _focusedDay.value,
+              headerVisible: false,
+              selectedDayPredicate: (day) => _selectedDays.contains(day),
+              rangeStartDay: _rangeStart,
+              rangeEndDay: _rangeEnd,
+              calendarFormat: _calendarFormat,
+              rangeSelectionMode: _rangeSelectionMode,
+              onDaySelected: _onDaySelected,
+              onCalendarCreated: (controller) => _pageController = controller,
+              onPageChanged: (focusedDay) => _focusedDay.value = focusedDay,
+              onFormatChanged: (format) {
+                if (_calendarFormat != format) {
+                  setState(() => _calendarFormat = format);
+                }
+              },
+            ),
+          ],
+        ),
       ),
     );
   }
