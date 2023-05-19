@@ -1,5 +1,6 @@
+// ignore_for_file: avoid_function_literals_in_foreach_calls
+
 import 'dart:developer' as db;
-import 'dart:math';
 
 import 'package:calender/circle.dart';
 import 'package:flutter/material.dart';
@@ -8,8 +9,6 @@ import 'package:hive/hive.dart';
 import 'package:path_provider/path_provider.dart';
 
 class Task3 extends StatefulWidget {
-  const Task3({super.key});
-
   @override
   State<Task3> createState() => _Task3State();
 }

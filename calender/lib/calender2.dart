@@ -13,8 +13,6 @@ import 'package:path_provider/path_provider.dart';
 import 'package:table_calendar/table_calendar.dart';
 
 class TableComplexExample extends StatefulWidget {
-  const TableComplexExample({super.key});
-
   @override
   _TableComplexExampleState createState() => _TableComplexExampleState();
 }
