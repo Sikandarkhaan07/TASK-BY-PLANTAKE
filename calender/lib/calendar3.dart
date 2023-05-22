@@ -9,6 +9,7 @@ import 'package:hive_flutter/hive_flutter.dart';
 import 'package:table_calendar/table_calendar.dart';
 import 'package:path_provider/path_provider.dart';
 import './controller.dart';
+import 'circle_outlayer.dart';
 
 final kToday = DateTime.now();
 final kFirstDay = DateTime(kToday.year, kToday.month - 2, 1);
@@ -87,6 +88,8 @@ class _TableComplexExampleState extends State<TableComplexExample> {
                       calendarBuilders: CalendarBuilders(
                         selectedBuilder: (context, day, focusedDay) {
                           return CustomPaint(
+                            painter: CircleOutlayer(
+                                i: controller.exerciseDays[day] ?? 0),
                             foregroundPainter:
                                 arc(i: controller.exerciseDays[day] ?? 0),
                             child: Container(

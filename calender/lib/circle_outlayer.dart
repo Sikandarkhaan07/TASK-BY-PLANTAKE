@@ -2,48 +2,23 @@
 
 import 'package:flutter/material.dart';
 
-class arc extends CustomPainter {
+class CircleOutlayer extends CustomPainter {
   final i;
 
-  arc({required this.i});
+  CircleOutlayer({required this.i});
 
   @override
   void paint(Canvas canvas, Size size) {
     final paint = Paint()
       ..style = PaintingStyle.stroke
-      ..color = Colors.black
+      ..color = Colors.grey
       ..strokeWidth = 3
       ..strokeCap = StrokeCap.round
       ..strokeJoin = StrokeJoin.miter;
 
     const Rect rect = Rect.fromLTWH(3, 5, 40, 40);
-    if (i == 1) {
-      canvas.drawArc(
-        rect,
-        4.72984, //271 degree
-        1.74533, //100 degree
-        false,
-        paint,
-      );
-    }
-    if (i == 2) {
-      canvas.drawArc(
-        rect,
-        4.72984, //271 degree
-        1.74533, //100 degree
-        false,
-        paint,
-      );
 
-      canvas.drawArc(
-        rect,
-        0.541052, //31 degree
-        1.74533, //100 degree
-        false,
-        paint,
-      );
-    }
-    if (i == 3) {
+    if (i != 0) {
       canvas.drawArc(
         rect,
         4.72984, //271 degree
